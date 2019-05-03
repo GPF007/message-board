@@ -1,0 +1,19 @@
+.container-fluid{
+            padding-top: 70px;
+
+        }
+        
+        .form1{
+            width: 700px;
+            margin:0 auto;
+            margin-top: 40px
+        }
+        .list-group{
+            width: 700px;
+            margin:0 auto;
+            margin-top: 40px
+        }
+
+        body {
+            background-color: antiquewhite
+        }
